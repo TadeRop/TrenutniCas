@@ -1,0 +1,2 @@
+# TrenutniCas
+SmartNinja vaja
